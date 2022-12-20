@@ -2,6 +2,9 @@
 
 Using Combinatorial Bees algorithm to solve UAV routing optimisation, while considering weather conditions, using the dataset of travelling salesman problem
 
-![Unknown-3](https://user-images.githubusercontent.com/90036648/208674699-61f09a65-6f3b-4211-b4ee-d60f5e2beef5.png)
-![Unknown-2](https://user-images.githubusercontent.com/90036648/208674775-2ff2524b-1860-463d-ade2-1e0ff07f1029.png)
-![Unknown](https://user-images.githubusercontent.com/90036648/208674784-4d843605-eaba-4626-a845-517b8e32b84b.png)
+Problem Example
+![Unknown-3](https://user-images.githubusercontent.com/90036648/208678015-1a4cb5b7-97a6-495e-a648-1885b9a4d147.png)
+Problem Solution
+![Unknown-2](https://user-images.githubusercontent.com/90036648/208678020-02f59f36-f1ff-49be-a460-b51f4143b37c.png)
+Cost function of the the Routing
+![Unknown](https://user-images.githubusercontent.com/90036648/208678033-4a6fac18-aa6c-492a-8978-6bf43400df27.png)
