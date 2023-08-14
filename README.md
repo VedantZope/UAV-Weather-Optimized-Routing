@@ -1,9 +1,9 @@
 
-# Bee-Inspired Optimization Algorithm for UAV Speed Prediction
+# Utilizing the Bees Algorithm and Machine Learning to optimize the UAVs travel time in consideration of Weather Conditions
 
 ## Introduction
 
-This repository contains the implementation of a bee-inspired optimization algorithm designed for UAV speed prediction. The project demonstrates the optimization process using a dummy dataset based on previous weather data.
+This repository contains the implementation of the Bees algorithm designed for UAV routing optimisation. The project demonstrates the optimization taking into account various external and weather factors.
 
 ## Table of Contents
 
@@ -11,10 +11,8 @@ This repository contains the implementation of a bee-inspired optimization algor
 - [Dataset](#dataset)
 - [File Structure](#file-structure)
 - [Usage](#usage)
-- [Visualizations](#visualizations)
 - [Status](#status)
 - [Contributors](#contributors)
-- [Commit History](#commit-history)
 
 ## Installation
 
@@ -22,12 +20,6 @@ To set up the environment and install the required dependencies, navigate to the
 
 ```bash
 source myenv/bin/activate
-```
-
-Install the necessary libraries and dependencies:
-
-```bash
-pip install -r requirements.txt
 ```
 
 ## Dataset
@@ -55,26 +47,15 @@ To run the main script and execute the entire process:
 python main.py
 ```
 
-## Visualizations
-
-### Routing Optimization
-
-[Space for the routing optimization plot]
-
-### Iteration Plot
-
-[Space for the iteration plot]
-
 ## Status
 
-**Completed**
+![Completed Status](https://img.shields.io/badge/status-completed-brightgreen.svg)
+![Contributors](https://img.shields.io/github/contributors/vedantzope/UAV-Weather-Optimized-Routing.svg)
+![Number of Commits](https://img.shields.io/github/commit-activity/y/vedantzope/UAV-Weather-Optimized-Routing.svg)
 
 ## Contributors
 
-- [Your Name] (You can add a link to your GitHub profile or any other relevant link)
-- [Other Contributor Names]
+## Authors
 
-## Commit History
-
-For a detailed commit history and changes made over time, please refer to the [commit history](link-to-your-repo's-commit-history) of this repository.
+- [@VedantZope](https://www.github.com/VedantZope)
 
